@@ -1,7 +1,7 @@
 # Verilog-Clock-and-Countdown-Alarm
-Verilog project that has a time of day clock (12 hours) and countdown alarm that flashes. Sorry for the awful spacing, ModelSim is bad.
+Verilog project that has a time of day clock (12 hours) and countdown alarm that flashes. Sorry for the awful spacing, ModelSim is bad. This project was made for the DE1-SoC. 
 
-The main module is in fsm.v. This controls the clock and alarm outputs. Please feel free to contact me for any questions regarding the project. 
+The main module is in fsm.v. This controls the clock and alarm outputs. Please feel free to contact me for any questions regarding the project.
 
 ## ECE 3544
 This project was made based on the specification [here]( Project-4-Specification.pdf) for ECE 3544 at Virginia Tech. Several files were given at the start of the project, including keypressed.v and clk.v.
